@@ -1,0 +1,42 @@
+.widzard {
+    flex: 0.3;
+    margin-left: 10px;
+}
+
+.widzard>h2 {
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.widzard_input {
+    display: flex;
+    align-items: center;
+    background-color: var(--twitter-background);
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.widzard_input>input {
+    border: none;
+    background-color: var(--twitter-background);
+}
+
+.widzard_search_icon {
+    color: grey;
+}
+
+.widzard_container {
+    margin-top: 15px;
+    margin-left: 20px;
+    padding: 15px;
+    background-color: #f5f8fa;
+    border-radius: 20px;
+    font-size: 10px !important;
+}
+
+.widzard_container>h2 {
+    padding-bottom: 18px;
+    font-weight: 800;
+}
