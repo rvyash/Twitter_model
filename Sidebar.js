@@ -1,4 +1,4 @@
-/* Sideber component for the twitter model  */
+/* Sidebar component for the twitter model  */
 import React from 'react';
 import './Sidebar.css'
 import SidebarOption from "./SidebarOption";
