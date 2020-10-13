@@ -1,4 +1,5 @@
-/* feed for the twitter*/
+/* Central feed for the twitter posts*/
+
 import React, { useState, useEffect } from 'react';
 import './Feed.css';
 import Tweetbox from "./Tweetbox";
