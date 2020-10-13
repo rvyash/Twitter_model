@@ -1,3 +1,4 @@
+/* feed for the twitter*/
 import React, { useState, useEffect } from 'react';
 import './Feed.css';
 import Tweetbox from "./Tweetbox";
