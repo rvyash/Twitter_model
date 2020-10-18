@@ -1,4 +1,4 @@
-/* Right sidebar for other feed */
+/* Right sidebar JS component file for other feed on right */
 import React from 'react';
 import "./Widzard.css";
 import SearchIcon from '@material-ui/icons/Search';
