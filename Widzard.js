@@ -1,4 +1,4 @@
-/* Right sudebar */
+/* Right sidebar for other feed */
 import React from 'react';
 import "./Widzard.css";
 import SearchIcon from '@material-ui/icons/Search';
