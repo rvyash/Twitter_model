@@ -1,4 +1,5 @@
 /* Sidebar.css:- cascading page for Sidebar  */
+/* !important overrides any previous styled other */
 .sidebar {
     border-right: 2px solid var(--twitter-background);
     flex: 0.3;
