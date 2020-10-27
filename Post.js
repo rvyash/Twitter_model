@@ -17,30 +17,22 @@ const Post = forwardRef(({
     image,
     avatar
 }, ref) => {
-    return ( <
-        div className = "post"
+    return ( <div className = "post"
         ref = { ref } >
-        <
-        div className = "post_avatar" >
-        <
-        Avatar src = { avatar }
-        /> <
-        /div> <
-        div className = "post_body" >
-        <
-        div className = "post_header" >
-        <
-        div className = "post_header_text" >
-        <
-        h3 > { displayName } { " " } <
-        span className = "post_header_special" > { verified && < VerifiedUserIcon className = "post_badge" / > }
-        @ { userName } <
-        /span> <
-        /h3> <
-        /div> <
-        div className = "post_header_description" >
-        <
-        p > { text } < /p> <
+        <div className = "post_avatar" >
+        <Avatar src = { avatar }/> 
+        </div>
+        <div className = "post_body" >
+        <div className = "post_header" >
+        <div className = "post_header_text" >
+        <h3> { displayName } { " " } 
+            <span className = "post_header_special" > { verified && < VerifiedUserIcon className = "post_badge" / > }
+        @ { userName } 
+            </span>
+            </h3>
+            </div> 
+            <div className = "post_header_description" >
+        <p> { text } < /p> <
         /div> <
         /div> <
         img src = { image }
