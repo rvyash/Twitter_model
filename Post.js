@@ -6,6 +6,7 @@ import VerifiedUserIcon from "@material-ui/icons/VerifiedUser";
 import RepeatIcon from "@material-ui/icons/Repeat";
 import FavouriteBorderIcon from "@material-ui/icons/FavoriteBorder";
 import PublishIcon from "@material-ui/icons/Publish";
+import ChatBubbleoutlineIcon from "@material-ui/icons/ChatBubbleOutline";
 
 
 const Post = forwardRef(({
