@@ -32,21 +32,16 @@ const Post = forwardRef(({
             </h3>
             </div> 
             <div className = "post_header_description" >
-        <p> { text } < /p> <
-        /div> <
-        /div> <
-        img src = { image }
+        <p> { text } < /p> 
+            </div> 
+            </div> 
+            <img src = { image }
         alt = "" / >
-        <
-        div className = "post_footer" >
-        <
-        ChatBubbleOutlineIcon fontSize = "small" / >
-        <
-        RepeatIcon fontSize = "small" / >
-        <
-        FavouriteBorderIcon fontSize = "small" / >
-        <
-        PublishIcon fontSize = "small" / >
+        <div className = "post_footer" >
+        <ChatBubbleOutlineIcon fontSize = "small" / >
+        <RepeatIcon fontSize = "small" / >
+        <FavouriteBorderIcon fontSize = "small" / >
+        <PublishIcon fontSize = "small" / >
         <
         /div> <
         /div> <
