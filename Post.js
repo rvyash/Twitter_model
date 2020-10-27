@@ -42,10 +42,9 @@ const Post = forwardRef(({
         <RepeatIcon fontSize = "small" / >
         <FavouriteBorderIcon fontSize = "small" / >
         <PublishIcon fontSize = "small" / >
-        <
-        /div> <
-        /div> <
-        /div>
+        </div> 
+            </div>
+            </div>
     )
 });
 
