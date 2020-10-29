@@ -1,5 +1,5 @@
 /* Central feed for the twitter posts*/
-/* React-flip-move makes smooth transations with the deletion and addition of the various comppnenets */
+/* React-flip-move makes smooth transations with the deletion and addition of the various components */
 
 import React, { useState, useEffect } from 'react';
 import './Feed.css';
