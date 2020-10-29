@@ -4,6 +4,7 @@ import React, { useState, useEffect } from 'react';
 import './Feed.css';
 
 import Post from "./Post";
+import Tweetbox from "./Tweetbox";
 import db from './firebase';
 import FlipMove from 'react-flip-move';
 
