@@ -21,7 +21,7 @@ function Feed() {
         <div className = "feed_header" >
         <h2 > Home < /h2> 
         </div>
-
+         { /* Tweet Box*/ }
         <Tweetbox / >
 
         { /* Posts*/ }
