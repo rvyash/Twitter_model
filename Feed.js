@@ -15,11 +15,10 @@ function Feed() {
             setPosts(snapshot.docs.map(doc => doc.data()))
         ))
     }, []);
-    return ( <
-        div className = "feed" > { /* Header*/ } <
-        div className = "feed_header" >
-        <
-        h2 > Home < /h2> <
+    return ( 
+        <div className = "feed" > { /* Header*/ } 
+        <div className = "feed_header" >
+        <h2 > Home < /h2> <
         /div>
 
         { /* Tweet Box*/ } <
