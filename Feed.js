@@ -27,7 +27,8 @@ function Feed() {
         { /* Posts*/ }
 
         {
-            posts.map(post => ( <
+            posts.map(post => ( 
+               <
                 Post key = { post.text }
                 displayName = { post.displayName }
                 userName = { post.userName }
@@ -37,8 +38,8 @@ function Feed() {
                 image = { post.image }
                 />
             ))
-        } <
-        /div>
+        } 
+        </div>
     );
 }
 
