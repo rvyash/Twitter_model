@@ -16,13 +16,13 @@ function Feed() {
         ))
     }, []);
     return ( 
-        <div className = "feed" > { /* Header*/ } 
+        <div className = "feed" >
+        { /* Header*/ } 
         <div className = "feed_header" >
-        <h2 > Home < /h2> <
-        /div>
+        <h2 > Home < /h2> 
+        </div>
 
-        { /* Tweet Box*/ } <
-        Tweetbox / >
+        <Tweetbox / >
 
         { /* Posts*/ }
 
