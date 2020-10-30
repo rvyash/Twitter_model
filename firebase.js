@@ -1,4 +1,4 @@
-/* Firebase configuration file*/
+/* Firebase setup and configuration file*/
 import firebase from "firebase";
 
 const firebaseConfig = {
