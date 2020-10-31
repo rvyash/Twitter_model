@@ -21,21 +21,19 @@ function Sidebar() {
         <TwitterIcon className = "sidebar_twitterIcon" / >
 
         <SidebarOption active Icon = { HomeIcon }
-        text = "Home" / >
+        text = "Home" />
         <SidebarOption Icon = { ExploreOutlinedIcon }
-        text = "Explore" / >
-        <
-        SidebarOption Icon = { NotificationsIcon }
-        text = "Notifications" / >
-        <
-        SidebarOption Icon = { MailOutlineIcon }
-        text = "Messages" / >
+        text = "Explore" />
+        <SidebarOption Icon = { NotificationsIcon }
+        text = "Notifications" />
+        <SidebarOption Icon = { MailOutlineIcon }
+        text = "Messages" />
         <SidebarOption Icon = { BookmarkBorderTwoToneIcon }
-        text = "Bookmark" / >
+        text = "Bookmark" />
         <SidebarOption Icon = { ListAltOutlinedIcon }
-        text = "List" / >
+        text = "List" />
         <SidebarOption Icon = { PersonIcon }
-        text = "Profile" / >
+        text = "Profile" />
         <SidebarOption Icon = { MoreHorizIcon }
         text = "More" />
 
