@@ -6,8 +6,6 @@ import SidebarOption from "./SidebarOption";
 import TwitterIcon from '@material-ui/icons/Twitter';
 import HomeIcon from '@material-ui/icons/Home';
 import NotificationsIcon from '@material-ui/icons/Notifications';
-import MailOutlineIcon from '@material-ui/icons/MailOutline';
-import BookmarkBorderTwoToneIcon from '@material-ui/icons/BookmarkBorderTwoTone';
 import ListAltOutlinedIcon from '@material-ui/icons/ListAltOutlined';
 import PersonIcon from '@material-ui/icons/Person';
 import MoreHorizIcon from '@material-ui/icons/MoreHoriz';
