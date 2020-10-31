@@ -6,6 +6,7 @@ import SidebarOption from "./SidebarOption";
 import TwitterIcon from '@material-ui/icons/Twitter';
 import HomeIcon from '@material-ui/icons/Home';
 import NotificationsIcon from '@material-ui/icons/Notifications';
+import MailOutlineIcon from '@material-ui/icons/MailOutline';
 import ListAltOutlinedIcon from '@material-ui/icons/ListAltOutlined';
 import PersonIcon from '@material-ui/icons/Person';
 import MoreHorizIcon from '@material-ui/icons/MoreHoriz';
@@ -37,12 +38,10 @@ function Sidebar() {
         <
         SidebarOption Icon = { PersonIcon }
         text = "Profile" / >
-        <
-        SidebarOption Icon = { MoreHorizIcon }
-        text = "More" / >
+        <SidebarOption Icon = { MoreHorizIcon }
+        text = "More" />
 
-        <
-        Button variant = "outlined"
+        <Button variant = "outlined"
         className = "sidebar_tweet"
         fullWidth > Tweet < /Button> { /* Option 1 */ } { /* Option 2 */ } { /* Option 3 */ } { /* Option 3 */ } { /* Option 4 */ } <
         /div>
