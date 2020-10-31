@@ -29,14 +29,11 @@ function Sidebar() {
         <
         SidebarOption Icon = { MailOutlineIcon }
         text = "Messages" / >
-        <
-        SidebarOption Icon = { BookmarkBorderTwoToneIcon }
+        <SidebarOption Icon = { BookmarkBorderTwoToneIcon }
         text = "Bookmark" / >
-        <
-        SidebarOption Icon = { ListAltOutlinedIcon }
+        <SidebarOption Icon = { ListAltOutlinedIcon }
         text = "List" / >
-        <
-        SidebarOption Icon = { PersonIcon }
+        <SidebarOption Icon = { PersonIcon }
         text = "Profile" / >
         <SidebarOption Icon = { MoreHorizIcon }
         text = "More" />
