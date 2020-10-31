@@ -14,15 +14,13 @@ import { Button } from "@material-ui/core";
 
 
 function Sidebar() {
-    return ( <
-        div className = "sidebar" > { /*  Twitter Icon*/ } <
-        TwitterIcon className = "sidebar_twitterIcon" / >
+    return ( 
+        <div className = "sidebar" > { /*  Twitter Icon*/ } 
+        <TwitterIcon className = "sidebar_twitterIcon" / >
 
-        <
-        SidebarOption active Icon = { HomeIcon }
+        <SidebarOption active Icon = { HomeIcon }
         text = "Home" / >
-        <
-        SidebarOption Icon = { ExploreOutlinedIcon }
+        <SidebarOption Icon = { ExploreOutlinedIcon }
         text = "Explore" / >
         <
         SidebarOption Icon = { NotificationsIcon }
