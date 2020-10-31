@@ -39,8 +39,9 @@ function Sidebar() {
 
         <Button variant = "outlined"
         className = "sidebar_tweet"
-        fullWidth > Tweet < /Button> { /* Option 1 */ } { /* Option 2 */ } { /* Option 3 */ } { /* Option 3 */ } { /* Option 4 */ } <
-        /div>
+        fullWidth > Tweet < /Button> { /* Option 1 */ } { /* Option 2 */ } { /* Option 3 */ } { /* Option 3 */ } { /* Option 4 */ } 
+       
+        </div>
     )
 }
 
