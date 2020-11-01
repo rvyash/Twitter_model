@@ -1,5 +1,5 @@
 /* Sidebar.js:- Sidebar component for the twitter model  
-    */
+   Note: All are from materialUI */
 import React from 'react';
 import './Sidebar.css'
 import SidebarOption from "./SidebarOption";
