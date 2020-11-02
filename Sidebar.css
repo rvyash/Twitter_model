@@ -1,5 +1,6 @@
 /* Sidebar.css:- cascading page for Sidebar  */
-/* !important :- it overrides any previous styled property from parents class */
+/* !important :- it overrides any previous styled property from parents class
+   Note:- The code consists class var  */
 .sidebar {
     border-right: 2px solid var(--twitter-background);
     flex: 0.3;
