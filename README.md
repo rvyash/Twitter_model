@@ -1,4 +1,4 @@
-## Twitter model project
+## Twitter model Frontend project using Firebase 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
