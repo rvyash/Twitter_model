@@ -40,8 +40,8 @@ const Post = forwardRef(({
         <div className = "post_footer" >
         <ChatBubbleOutlineIcon fontSize = "small" / >
         <RepeatIcon fontSize = "small" / >
-        <FavouriteBorderIcon fontSize = "small" / >
-        <PublishIcon fontSize = "small" / >
+        <FavouriteBorderIcon fontSize = "small" />
+        <PublishIcon fontSize = "small" />
         </div> 
             </div>
             </div>
