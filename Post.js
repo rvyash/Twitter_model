@@ -25,7 +25,7 @@ const Post = forwardRef(({
         <div className = "post_body" >
         <div className = "post_header" >
         <div className = "post_header_text" >
-        <h3> { displayName } { " " } 
+        <h3> { displayName } 
             <span className = "post_header_special" > { verified && < VerifiedUserIcon className = "post_badge" / > }
         @ { userName } 
             </span>
