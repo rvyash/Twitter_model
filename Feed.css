@@ -1,4 +1,5 @@
-    .feed {
+  /* Feed.css */
+  .feed {
         flex: 0.4;
         border-right: 2px solid var(--twitter-background);
         min-width: fit-content;
