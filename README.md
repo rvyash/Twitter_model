@@ -1,6 +1,6 @@
 ## Twitter Model Frontend project
 
- This is a Twitter model Frontend project with React.js and Firebase as the backend <be />
+ This is a Twitter model Frontend project with React.js and Firebase as the backend <br />
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
