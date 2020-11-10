@@ -1,4 +1,4 @@
-## Twitter Model Frontend project
+## Twitter Model
 
  This is a Twitter model Frontend project with React.js and Firebase as the Backend and Database to store different information about the users authentication, Posts.<br />
 <br /> This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
